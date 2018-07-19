@@ -1,0 +1,21 @@
+{
+  "name": "sequelize-setup",
+  "version": "0.0.1",
+  "description": "Basic setup for a NodeJS project using Sequelize for ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sequelize",
+    "ORM",
+    "NodeJS"
+  ],
+  "author": "Kashyap Mukkamala",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^7.4.3",
+    "sequelize": "^4.38.0",
+    "sequelize-cli": "^4.0.0"
+  }
+}
